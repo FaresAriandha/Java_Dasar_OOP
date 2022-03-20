@@ -1,10 +1,12 @@
 {
-    "java.project.sourcePaths": ["src"],
+    "java.project.sourcePaths": [
+        "Belajar Java Dasar/src"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    "editor.fontSize": 16,
+    "editor.fontSize": 18,
     "workbench.colorTheme": "Dracula Soft",
     "editor.minimap.enabled": false,
     "terminal.integrated.fontSize": 16
